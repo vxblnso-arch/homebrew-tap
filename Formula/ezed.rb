@@ -2,8 +2,8 @@
 class Ezed < Formula
   desc "A simple text editor made in Rust"
   homepage "https://github.com/vxblnso-arch/EzEd"
-  url "https://github.com/vxblnso-arch/EzEd/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "8572cb1c4fdc60565ffbff14e34169c3f0d96a11b670391b68bd77c2684d80ce"
+  url "https://github.com/vxblnso-arch/EzEd/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "1df959e38ea41731ce532963b2d211f3471040d4d8354fdb601fd4826143bbe8"
   license "MIT" 
   depends_on "rust" => :build
 
