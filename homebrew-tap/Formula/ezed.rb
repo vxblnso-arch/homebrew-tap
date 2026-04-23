@@ -1,5 +1,5 @@
 # Formula/ezed.rb
-class EzEd < Formula
+class Ezed < Formula
   desc "A simple text editor made in Rust"
   homepage "https://github.com/vxblnso-arch/EzEd"
   url "https://github.com/vxblnso-arch/EzEd/archive/refs/tags/v0.1.0.tar.gz"
